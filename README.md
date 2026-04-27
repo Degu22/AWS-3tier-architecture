@@ -1,7 +1,7 @@
 
 # 🚀 AWS 3-Tier Architecture (Highly Available)
 
-![Architecture Diagram](./diagram.jpg)
+![Architecture Diagram](./3_tier_diagram.jpg)
 
 This project demonstrates a **highly available and scalable 3-tier architecture on AWS**, designed using standard cloud architecture principles.
 
